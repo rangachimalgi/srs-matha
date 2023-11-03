@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../assets/logo.jpeg"
 
 export const Navigation = (props) => {
   return (
@@ -17,9 +18,10 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+          <a className="navbar-brand page-scroll" href="#page-top" style={{ display: 'flex', alignItems: 'center' }}>
+  <img src={logo} alt="Career Map Logo" style={{ width: '50px', marginRight: '10px' }} />
+  Career Map
+</a>
         </div>
 
         <div
@@ -27,9 +29,20 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li>
+              <a href="#testimonials" className="page-scroll">
+                HR
+              </a>
+            </li> */}
+            {/* <li>
               <a href="#features" className="page-scroll">
                 Features
+              </a>
+            </li> */}
+            
+            <li>
+              <a href="#services" className="page-scroll">
+                Services
               </a>
             </li>
             <li>
@@ -37,26 +50,11 @@ export const Navigation = (props) => {
                 About
               </a>
             </li>
-            <li>
-              <a href="#services" className="page-scroll">
-                Services
-              </a>
-            </li>
-            <li>
+            {/* <li>
               <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
-            </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">
                 Contact

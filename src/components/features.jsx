@@ -2,24 +2,21 @@ import React from "react";
 
 export const Features = (props) => {
   return (
-    <div id="features" className="text-center">
-      <div className="container">
-        <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>Features</h2>
-        </div>
-        <div className="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
-                  {" "}
-                  <i className={d.icon}></i>
-                  <h3>{d.title}</h3>
-                  <p>{d.text}</p>
-                </div>
-              ))
-            : "Loading..."}
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100vh', padding: '20px', backgroundColor: '#f5f5f5' }}>
+      
+      <div style={{ maxWidth: '600px', padding: '30px', backgroundColor: 'white', borderRadius: '8px', boxShadow: '0px 4px 10px rgba(0,0,0,0.1)' }}>
+        <p style={{ fontSize: '24px', fontStyle: 'italic', textAlign: 'center' }}>
+          "“What is truly remarkable is Career Map’s ability to successfully deliver high quality candidates despite the location.”"
+        </p>
+
+        <div style={{ marginTop: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+          <div>
+            <p style={{ margin: '0', fontWeight: 'bold' }}>-Director</p>
+            <p style={{ margin: '0' }}>Electric Bike Ambassador Project</p>
+          </div>
         </div>
       </div>
+
     </div>
   );
 };
