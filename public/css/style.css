@@ -208,8 +208,8 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  /* background: url(../img/bg-image-seven.jpg) center center no-repeat; */
-  background-color: #9184f4;
+  background: url(../img/bg-image-eight.jpeg) center center no-repeat;
+  background-color: #ffffff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
