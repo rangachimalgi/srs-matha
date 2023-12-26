@@ -6,7 +6,7 @@
   "About": {
     "paragraph": "About Our Client",
     "Why": [
-      "Career Map provided recruitment services for an electric bike ambassador project. The project involved looking to hire various ambassadors across multiple cities around Europe. 16 of the 35 talents provided by Career Map were chosen for the project."
+      "Career Map was started to create a network of multi-level, highly skilled talent; that are either experts or working to become one, in the field of Information Technology, Accounting & Finance, Automobile & Telecom. Our process involves focusing on the talent, skills, and experience of an individual as a key indicator of the present and future value that they will bring to any organization.In establishing a network, we are able to forge genuine relationships with talent and gain valuable insight that allows us to understand what motivates them. This data allows us to give strategic advice to our partners as they go through the process of managing their human capital."
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -49,34 +49,29 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-phone",
-      "name": "Telecommunications",
-      "text": "Telecommunications, or telecom, refers to the process of exchanging information such as voice, data and video transmissions via electronic technologies like telephones (wired and wireless), microwave communications, fibre optics, satellites, radio and television broadcasting, and the internet."
+      "icon": "fa fa-users",
+      "name": "Permanent Staffing",
+      "text": "Permanent staffing is not mere matchmaking for us. In other words, our outlook on staffing is not operational but transformational. We adopt a problem-solving approach and rely on our decades of expertise and foresight to find the right people for your evolving business needs. We offer staffing solutions that are custom built for specific projects as well as to support employers on an ongoing basis. Our methodology starts with gaining a deep understanding of your organization’s business, specific requirements as well as constraints, preferences and challenges."
     },
     {
       "icon": "fa fa-money",
-      "name": "Banking",
-      "text": "Banking is an industry that handles cash, credit, and other financial transactions. Banks provide a safe place to store extra cash and credit. They offer savings accounts, certificates of deposit, and checking accounts. ... Bank loans and credit mean families don't have to save up before going to college or buying a house."
-    },
-    {
-      "icon": "fa fa-database",
-      "name": "ERP solution (SAP)",
-      "text": "Enterprise resource planning (ERP) is defined as the ability to deliver an integrated suite of business applications. ERP tools share a common process and data model, covering broad and deep operational end-to-end processes, such as those found in finance, HR, distribution, manufacturing, service and the supply chain."
+      "name": "RPO",
+      "text": "Great organizations are not built overnight. It takes the right strategy and years of hard work to make it happen. To achieve this, you need to onboard the right team at every stage of your growth. This is where we come in. We help you formulate your hiring strategy, map internal processes, staff it with the appropriate delivery team and optimize your talent supply chain. Every stakeholder is accounted for and the right interfaces are provided for smooth delivery."
     },
     {
       "icon": "fa fa-desktop",
       "name": "IT",
-      "text": "Stands for Information Technology, and is pronounced I.T. It refers to anything related to computing technology, such as networking, hardware, software, the Internet, or the people that work with these technologies."
-    },
-    {
-      "icon": "fa fa-cloud",
-      "name": "ITES",
-      "text": "The full form of ITES is Information Technology Enabled Services. The other names of ITES are remote services or web-enabled services. ITES includes a wide range of approaches and processes that use IT to enhance and increase an organization's efficiency"
+      "text": "The advancement in the technological sector has resulted in a great boom in IT & IT Enabled Services sector. This has therefore led to an increased demand for the professionals in this industry. The increased literacy rates have definitely helped in meeting up the requirements of the industry.We are instrumental in providing the most efficient and dedicated workforce that can prove to be productive for the progress of the companies. We have been successfully catering to the needs of the clients at both national as well as international level. "
     },
     {
       "icon": "fa fa-cogs",
-      "name": "Non IT",
-      "text": "Non-IT means not related to Information Technology"
+      "name": "SAP Consulting service",
+      "text": "CareerMap provides feasible solutions for the supply chain management and business-to-business procurement. The SAP Consultancy Services also aid the business intelligence and strategic enterprise management, with the team using the knowledge and creativity as well as technical skills to provide business solutions that work. The SAP Consultancy Services are quick and effective, and we can deal in projects of varying magnitudes and complexity levels. Added to that, the team is adept at multi-tasking and capable of utilizing multiple technologies to provide solutions through the SAP Consultancy Services."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Non-IT",
+      "text": "We are experts in Non-IT hiring i.e Telecom, Automobile & Mechanical. The ultimate aim for every organization is to increase the sales graph. For this innovative marketing strategies are developed and implemented. Many companies have developed dedicated Sales/ Marketing Departments to carry-out the marketing functions effectively. We understand that Sales & Marketing Professionals need to have a good communication and convincing power along with the required qualifications.      We are in contact with the candidates who possess such skills. We capably undertake hiring for profiles such as Sales Engineers, Sales & Marketing Professional, Team Leader, Sales Manager, Marketing Head, etc."
     }
   ],
   "Testimonials": [

@@ -47,6 +47,15 @@ export const Contact = (props) => {
                 <h2>About Our Client</h2>
                 <p>Career Map provided recruitment services for an electric bike ambassador project. The project involved looking to hire various ambassadors across multiple cities around Europe. 16 of the 35 talents provided by Career Map were chosen for the project.</p>
               </div>
+              <div>
+                <h2>For our customers</h2>
+                <p>
+  We’re different because we care. <br />
+  We go to great lengths to treat every client and candidate with care and respect, and we use our years of experience to inspire you to achieve your ambitions. <br />
+  It’s all driven by great people, who help us in our mission to deliver excellence to individuals, businesses, and communities. <br />
+  Inspiring working lives isn't just our strapline, it's what we aspire to do each and every day in order to make a difference to our customers, our employees & job aspirants.
+</p>
+              </div>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
